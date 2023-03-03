@@ -1,0 +1,35 @@
+Initializing student array (num_students: 5)
+Student [name : Cailklv, birthday : 2433. 8.12, st_id : 30654, department :  SRK, gpa : 44.80]
+Student [name : Iqgndxi, birthday : 2100.12. 9, st_id : 27177, department : YWMN, gpa : 54.06]
+Student [name : Naupm  , birthday : 2520. 8.21, st_id : 10393, department : HZJU, gpa : 15.78]
+Student [name : Mfrroe , birthday : 2471.12.26, st_id : 13872, department : PFUB, gpa : 80.53]
+Student [name : Wgtdz  , birthday : 2623. 3.23, st_id : 21709, department :  NUY, gpa : 40.21]
+
+Sorting studentArray by student id : 
+Student [name : Naupm  , birthday : 2520. 8.21, st_id : 10393, department : HZJU, gpa : 15.78]
+Student [name : Mfrroe , birthday : 2471.12.26, st_id : 13872, department : PFUB, gpa : 80.53]
+Student [name : Wgtdz  , birthday : 2623. 3.23, st_id : 21709, department :  NUY, gpa : 40.21]
+Student [name : Iqgndxi, birthday : 2100.12. 9, st_id : 27177, department : YWMN, gpa : 54.06]
+Student [name : Cailklv, birthday : 2433. 8.12, st_id : 30654, department :  SRK, gpa : 44.80]
+
+Sorting studentArray by student name : 
+Student [name : Cailklv, birthday : 2433. 8.12, st_id : 30654, department :  SRK, gpa : 44.80]
+Student [name : Iqgndxi, birthday : 2100.12. 9, st_id : 27177, department : YWMN, gpa : 54.06]
+Student [name : Mfrroe , birthday : 2471.12.26, st_id : 13872, department : PFUB, gpa : 80.53]
+Student [name : Naupm  , birthday : 2520. 8.21, st_id : 10393, department : HZJU, gpa : 15.78]
+Student [name : Wgtdz  , birthday : 2623. 3.23, st_id : 21709, department :  NUY, gpa : 40.21]
+
+Sorting studentArray by GPA : 
+Student [name : Mfrroe , birthday : 2471.12.26, st_id : 13872, department : PFUB, gpa : 80.53]
+Student [name : Iqgndxi, birthday : 2100.12. 9, st_id : 27177, department : YWMN, gpa : 54.06]
+Student [name : Cailklv, birthday : 2433. 8.12, st_id : 30654, department :  SRK, gpa : 44.80]
+Student [name : Wgtdz  , birthday : 2623. 3.23, st_id : 21709, department :  NUY, gpa : 40.21]
+Student [name : Naupm  , birthday : 2520. 8.21, st_id : 10393, department : HZJU, gpa : 15.78]
+
+Sorting studentArray by BirthDate : 
+Student [name : Iqgndxi, birthday : 2100.12. 9, st_id : 27177, department : YWMN, gpa : 54.06]
+Student [name : Cailklv, birthday : 2433. 8.12, st_id : 30654, department :  SRK, gpa : 44.80]
+Student [name : Mfrroe , birthday : 2471.12.26, st_id : 13872, department : PFUB, gpa : 80.53]
+Student [name : Naupm  , birthday : 2520. 8.21, st_id : 10393, department : HZJU, gpa : 15.78]
+Student [name : Wgtdz  , birthday : 2623. 3.23, st_id : 21709, department :  NUY, gpa : 40.21]
+
