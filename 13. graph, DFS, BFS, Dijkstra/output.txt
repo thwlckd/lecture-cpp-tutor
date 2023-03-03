@@ -1,0 +1,46 @@
+Inserting vertices ..
+Inserted vertices: SF, LA, DLS, CHG, MIA, NY, BOS, 
+Inserting edges ..
+Inserted edges: 
+Edge(SF, LA,  337), Edge(SF, DLS, 1464), Edge(SF, CHG, 1846), Edge(SF, BOS, 2704), Edge(LA, SF,  337), 
+Edge(LA, DLS, 1235), Edge(LA, MIA, 2342), Edge(DLS, SF, 1464), Edge(DLS, LA, 1235), Edge(DLS, CHG,  802), 
+Edge(DLS, MIA, 1121), Edge(CHG, SF, 1846), Edge(CHG, DLS,  802), Edge(CHG, NY,  740), Edge(CHG, BOS,  867), 
+Edge(MIA, LA, 2342), Edge(MIA, DLS, 1121), Edge(MIA, NY, 1090), Edge(MIA, BOS, 1258), Edge(NY, CHG,  740), 
+Edge(NY, MIA, 1090), Edge(NY, BOS,  187), Edge(BOS, SF, 2704), Edge(BOS, CHG,  867), Edge(BOS, NY,  187), 
+Edge(BOS, MIA, 1258), 
+Print out Graph based on Adjacency List ..
+GRAPH_SIMPLE_USA_7_NODES with 7 vertices has following connectivity :
+ vertex ( SF) : Edge(SF, LA,  337) Edge(SF, DLS, 1464) Edge(SF, CHG, 1846) Edge(SF, BOS, 2704) 
+ vertex ( LA) : Edge(LA, SF,  337) Edge(LA, DLS, 1235) Edge(LA, MIA, 2342) 
+ vertex (DLS) : Edge(DLS, SF, 1464) Edge(DLS, LA, 1235) Edge(DLS, CHG,  802) Edge(DLS, MIA, 1121) 
+ vertex (CHG) : Edge(CHG, SF, 1846) Edge(CHG, DLS,  802) Edge(CHG, NY,  740) Edge(CHG, BOS,  867) 
+ vertex (MIA) : Edge(MIA, LA, 2342) Edge(MIA, DLS, 1121) Edge(MIA, NY, 1090) Edge(MIA, BOS, 1258) 
+ vertex ( NY) : Edge(NY, CHG,  740) Edge(NY, MIA, 1090) Edge(NY, BOS,  187) 
+ vertex (BOS) : Edge(BOS, SF, 2704) Edge(BOS, CHG,  867) Edge(BOS, NY,  187) Edge(BOS, MIA, 1258) 
+
+Testing Breadth First Search with Dijkstra Algorithm
+
+Distance Matrix of Graph (GRAPH_SIMPLE_USA_7_NODES) :
+      |   SF   LA  DLS  CHG  MIA   NY  BOS
+------+-----------------------------------
+   SF |    0  337 1464 1846  +oo  +oo 2704
+   LA |  337    0 1235  +oo 2342  +oo  +oo
+  DLS | 1464 1235    0  802 1121  +oo  +oo
+  CHG | 1846  +oo  802    0  +oo  740  867
+  MIA |  +oo 2342 1121  +oo    0 1090 1258
+   NY |  +oo  +oo  +oo  740 1090    0  187
+  BOS | 2704  +oo  +oo  867 1258  187    0
+
+
+Dijkstra Shortest Path Finding from LA to BOS .... 
+Dijkstra::Least Cost from Vertex (LA) at each round : 
+           |   SF   LA  DLS  CHG  MIA   NY  BOS
+-----------+-----------------------------------
+round [ 1] |  337    0 1235 2183 2342  +oo 3041 ==> selected vertex : SF
+round [ 2] |  337    0 1235 2037 2342  +oo 3041 ==> selected vertex : DLS
+round [ 3] |  337    0 1235 2037 2342 2777 2904 ==> selected vertex : CHG
+round [ 4] |  337    0 1235 2037 2342 2777 2904 ==> selected vertex : MIA
+round [ 5] |  337    0 1235 2037 2342 2777 2904 ==> selected vertex : NY
+round [ 6] |
+reached to the target node (BOS) at Least Cost = 2904
+Path found by DijkstraShortestPath from LA to BOS : LA -> DLS -> CHG -> BOS -> 

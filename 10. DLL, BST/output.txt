@@ -1,0 +1,236 @@
+Input books[] array : 
+[Book_01 , Kim     , (2020.1 .1 ) ]
+[Book_02 , Kim     , (2010.1 .1 ) ]
+[Book_03 , Kim     , (2013.1 .1 ) ]
+[Book_04 , Lee     , (2011.1 .1 ) ]
+[Book_05 , Hwang   , (2001.1 .1 ) ]
+[Book_06 , Choi    , (2003.1 .1 ) ]
+[Book_07 , Park    , (2009.1 .1 ) ]
+[Book_08 , Brown   , (2012.1 .1 ) ]
+[Book_09 , Alpha   , (1980.1 .1 ) ]
+[Book_10 , Chalie  , (1970.1 .1 ) ]
+[Book_11 , Tango   , (1985.1 .1 ) ]
+[Book_12 , Yankee  , (1977.1 .1 ) ]
+[Book_13 , Zulu    , (2018.1 .1 ) ]
+[Book_14 , Foxtrot , (2015.1 .1 ) ]
+[Book_15 , Delta   , (2000.1 .1 ) ]
+
+
+Balanced Binary Search Tree (BBST) with key book-title
+
+Entries in BBST_BK_keyTitle (in order of Book Title) : 
+BBST_BK_ketTitle: curruent size (15)
+               (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+          (Book_14 : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+               (Book_13 : [Book_13 , Zulu    , (2018.1 .1 ) ])
+     (Book_12 : [Book_12 , Yankee  , (1977.1 .1 ) ])
+               (Book_11 : [Book_11 , Tango   , (1985.1 .1 ) ])
+          (Book_10 : [Book_10 , Chalie  , (1970.1 .1 ) ])
+               (Book_09 : [Book_09 , Alpha   , (1980.1 .1 ) ])
+(Book_08 : [Book_08 , Brown   , (2012.1 .1 ) ])
+               (Book_07 : [Book_07 , Park    , (2009.1 .1 ) ])
+          (Book_06 : [Book_06 , Choi    , (2003.1 .1 ) ])
+               (Book_05 : [Book_05 , Hwang   , (2001.1 .1 ) ])
+     (Book_04 : [Book_04 , Lee     , (2011.1 .1 ) ])
+               (Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+          (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+               (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+Balanced Binary Search Tree (BBST) with key book-author
+
+Entries in BBST_BK_keyAuthor (in order of Book Author) : 
+BBST_BK_ketAuthor: curruent size (15)
+               (Zulu : [Book_13 , Zulu    , (2018.1 .1 ) ])
+          (Yankee : [Book_12 , Yankee  , (1977.1 .1 ) ])
+     (Tango : [Book_11 , Tango   , (1985.1 .1 ) ])
+               (Park : [Book_07 , Park    , (2009.1 .1 ) ])
+          (Lee : [Book_04 , Lee     , (2011.1 .1 ) ])
+               (Kim : [Book_03 , Kim     , (2013.1 .1 ) ])
+(Kim : [Book_02 , Kim     , (2010.1 .1 ) ])
+               (Kim : [Book_01 , Kim     , (2020.1 .1 ) ])
+          (Hwang : [Book_05 , Hwang   , (2001.1 .1 ) ])
+               (Foxtrot : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+                    (Delta : [Book_15 , Delta   , (2000.1 .1 ) ])
+     (Choi : [Book_06 , Choi    , (2003.1 .1 ) ])
+               (Chalie : [Book_10 , Chalie  , (1970.1 .1 ) ])
+          (Brown : [Book_08 , Brown   , (2012.1 .1 ) ])
+               (Alpha : [Book_09 , Alpha   , (1980.1 .1 ) ])
+Books of author (Kim) published during (2010.1 .1 ) ~ (2015.12.31):
+[Book_02 , Kim     , (2010.1 .1 ) ]
+[Book_03 , Kim     , (2013.1 .1 ) ]
+
+Balanced Binary Search Tree (BBST) with key publication date
+
+Entries in BBST_BK_keyPubDate (in order of Book Publication Date) : 
+BBST_BK_keyPubDate: curruent size (15)
+               (2020.1 .1  : [Book_01 , Kim     , (2020.1 .1 ) ])
+          (2018.1 .1  : [Book_13 , Zulu    , (2018.1 .1 ) ])
+               (2015.1 .1  : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+     (2013.1 .1  : [Book_03 , Kim     , (2013.1 .1 ) ])
+               (2012.1 .1  : [Book_08 , Brown   , (2012.1 .1 ) ])
+          (2011.1 .1  : [Book_04 , Lee     , (2011.1 .1 ) ])
+(2010.1 .1  : [Book_02 , Kim     , (2010.1 .1 ) ])
+               (2009.1 .1  : [Book_07 , Park    , (2009.1 .1 ) ])
+          (2003.1 .1  : [Book_06 , Choi    , (2003.1 .1 ) ])
+     (2001.1 .1  : [Book_05 , Hwang   , (2001.1 .1 ) ])
+                    (2000.1 .1  : [Book_15 , Delta   , (2000.1 .1 ) ])
+               (1985.1 .1  : [Book_11 , Tango   , (1985.1 .1 ) ])
+          (1980.1 .1  : [Book_09 , Alpha   , (1980.1 .1 ) ])
+                    (1977.1 .1  : [Book_12 , Yankee  , (1977.1 .1 ) ])
+               (1970.1 .1  : [Book_10 , Chalie  , (1970.1 .1 ) ])
+
+Removing the root entry in sequence ...
+
+remove (Book_08 : [Book_08 , Brown   , (2012.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (14)
+               (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+          (Book_14 : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+               (Book_13 : [Book_13 , Zulu    , (2018.1 .1 ) ])
+     (Book_12 : [Book_12 , Yankee  , (1977.1 .1 ) ])
+               (Book_11 : [Book_11 , Tango   , (1985.1 .1 ) ])
+          (Book_10 : [Book_10 , Chalie  , (1970.1 .1 ) ])
+(Book_09 : [Book_09 , Alpha   , (1980.1 .1 ) ])
+               (Book_07 : [Book_07 , Park    , (2009.1 .1 ) ])
+          (Book_06 : [Book_06 , Choi    , (2003.1 .1 ) ])
+               (Book_05 : [Book_05 , Hwang   , (2001.1 .1 ) ])
+     (Book_04 : [Book_04 , Lee     , (2011.1 .1 ) ])
+               (Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+          (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+               (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_09 : [Book_09 , Alpha   , (1980.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (13)
+               (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+          (Book_14 : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+               (Book_13 : [Book_13 , Zulu    , (2018.1 .1 ) ])
+     (Book_12 : [Book_12 , Yankee  , (1977.1 .1 ) ])
+          (Book_11 : [Book_11 , Tango   , (1985.1 .1 ) ])
+(Book_10 : [Book_10 , Chalie  , (1970.1 .1 ) ])
+               (Book_07 : [Book_07 , Park    , (2009.1 .1 ) ])
+          (Book_06 : [Book_06 , Choi    , (2003.1 .1 ) ])
+               (Book_05 : [Book_05 , Hwang   , (2001.1 .1 ) ])
+     (Book_04 : [Book_04 , Lee     , (2011.1 .1 ) ])
+               (Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+          (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+               (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_10 : [Book_10 , Chalie  , (1970.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (12)
+               (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+          (Book_14 : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+               (Book_13 : [Book_13 , Zulu    , (2018.1 .1 ) ])
+     (Book_12 : [Book_12 , Yankee  , (1977.1 .1 ) ])
+(Book_11 : [Book_11 , Tango   , (1985.1 .1 ) ])
+               (Book_07 : [Book_07 , Park    , (2009.1 .1 ) ])
+          (Book_06 : [Book_06 , Choi    , (2003.1 .1 ) ])
+               (Book_05 : [Book_05 , Hwang   , (2001.1 .1 ) ])
+     (Book_04 : [Book_04 , Lee     , (2011.1 .1 ) ])
+               (Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+          (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+               (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_11 : [Book_11 , Tango   , (1985.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (11)
+          (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+     (Book_14 : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+          (Book_13 : [Book_13 , Zulu    , (2018.1 .1 ) ])
+(Book_12 : [Book_12 , Yankee  , (1977.1 .1 ) ])
+               (Book_07 : [Book_07 , Park    , (2009.1 .1 ) ])
+          (Book_06 : [Book_06 , Choi    , (2003.1 .1 ) ])
+               (Book_05 : [Book_05 , Hwang   , (2001.1 .1 ) ])
+     (Book_04 : [Book_04 , Lee     , (2011.1 .1 ) ])
+               (Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+          (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+               (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_12 : [Book_12 , Yankee  , (1977.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (10)
+          (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+     (Book_14 : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+          (Book_13 : [Book_13 , Zulu    , (2018.1 .1 ) ])
+(Book_07 : [Book_07 , Park    , (2009.1 .1 ) ])
+          (Book_06 : [Book_06 , Choi    , (2003.1 .1 ) ])
+               (Book_05 : [Book_05 , Hwang   , (2001.1 .1 ) ])
+     (Book_04 : [Book_04 , Lee     , (2011.1 .1 ) ])
+               (Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+          (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+               (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_07 : [Book_07 , Park    , (2009.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (9)
+          (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+     (Book_14 : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+          (Book_13 : [Book_13 , Zulu    , (2018.1 .1 ) ])
+(Book_06 : [Book_06 , Choi    , (2003.1 .1 ) ])
+          (Book_05 : [Book_05 , Hwang   , (2001.1 .1 ) ])
+     (Book_04 : [Book_04 , Lee     , (2011.1 .1 ) ])
+               (Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+          (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+               (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_06 : [Book_06 , Choi    , (2003.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (8)
+          (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+     (Book_14 : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+          (Book_13 : [Book_13 , Zulu    , (2018.1 .1 ) ])
+(Book_05 : [Book_05 , Hwang   , (2001.1 .1 ) ])
+     (Book_04 : [Book_04 , Lee     , (2011.1 .1 ) ])
+               (Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+          (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+               (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_05 : [Book_05 , Hwang   , (2001.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (7)
+          (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+     (Book_14 : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+          (Book_13 : [Book_13 , Zulu    , (2018.1 .1 ) ])
+(Book_04 : [Book_04 , Lee     , (2011.1 .1 ) ])
+          (Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+     (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+          (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_04 : [Book_04 , Lee     , (2011.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (6)
+          (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+     (Book_14 : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+(Book_13 : [Book_13 , Zulu    , (2018.1 .1 ) ])
+          (Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+     (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+          (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_13 : [Book_13 , Zulu    , (2018.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (5)
+     (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+(Book_14 : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+          (Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+     (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+          (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_14 : [Book_14 , Foxtrot , (2015.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (4)
+     (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+(Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+     (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+          (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_03 : [Book_03 , Kim     , (2013.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (3)
+     (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+(Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+     (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_02 : [Book_02 , Kim     , (2010.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (2)
+(Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+     (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_15 : [Book_15 , Delta   , (2000.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (1)
+(Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+
+remove (Book_01 : [Book_01 , Kim     , (2020.1 .1 ) ])
+BBST_BK_keyTitle: curruent size (0)
+BBST_BK_keyTitle is empty now !!
+
+Clearing BBST_BKs . . . 
+All BBST_BKs cleared !! 
