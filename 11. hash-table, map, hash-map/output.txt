@@ -1,0 +1,418 @@
+Inserting My Vocabularies to myVocaDict . . . 
+Total 100 words in my Voca_Dictionary ..
+variance(n): 
+ - thesaurus(Disagreement, variation, conflict, alteration, )
+ - example usage(I suggest you to confirm variance of the final exam¡¯s result, because it is the indicator of your grade position. )
+premise(n): 
+ - thesaurus(proposition, foundation, ground, )
+ - example usage(In a essay, it will be better to put premise like a background to persuade reader. )
+register(v): 
+ - thesaurus(Enroll, catalogue, record, )
+ - example usage(My mother registered SJ health club for a year but she can¡¯t go club because of social distance. )
+register(n): 
+ - thesaurus(List, file, )
+ - example usage(You should check on the register first for an exact paycheck when you here to work. )
+congruent(adj): 
+ - thesaurus(Suit, matching, harmonious, fitting, )
+ - example usage(When you make a puzzle, one tip is to find the piece that is congruent with the shape of puzzle board. )
+consistent(adj): 
+ - thesaurus(Steady, constant, relevant, )
+ - example usage(You have to assert consistence opinion in every paragraph when you write an essay to persuade readers. )
+derivative(n): 
+ - thesaurus(Result, product, )
+ - example usage(I think that derivative is the most important and basic tool in math because it gives the variable¡¯s rate of change. )
+derivative(adj): 
+ - thesaurus(Copied, derived, )
+ - example usage(GENESIS is the derivative brand of HYNDAI Motor and is consisted of luxury cars like G80 and GV80. )
+eligible(adj): 
+ - thesaurus(qualified, entitled, )
+ - example usage(He is eligible to vote president election in Korea as he has lived more than 20 years. )
+proficient(adj): 
+ - thesaurus(skillful, expert, capable, )
+ - example usage(Engineers are proficient at English because lots of information that they should learn is in books, papers and articles in English. )
+certificate(n): 
+ - thesaurus(diploma, credential, license, )
+ - example usage(You should bring the certificate given by government, if you want to enter the center. )
+certificate(v): 
+ - thesaurus(qualify, entitle, authorize, )
+ - example usage(You can be certificated as teacher, if you are involved in the list announcing passed applicants )
+hesitant(adj): 
+ - thesaurus(uncertain, cautious, tentative, )
+ - example usage(Don¡¯t be hesitant in face to face communication because of the unrisen situations that can worsen relations. )
+waive(v): 
+ - thesaurus(Surrender, abandon, give up, )
+ - example usage(It is too good suggestion to waive that working as an information security guard at DaeGu bank. )
+collaborate(v): 
+ - thesaurus(Cooperate, )
+ - example usage(Rapper Dok2¡¯s little dream is to collaborate with Kim Bum Soo who is one of the best R&B singer in Korea. )
+resume(v): 
+ - thesaurus(recommence, continue, restart, )
+ - example usage(Laborers should resume the work in several minutes to accomplish the today¡¯s goal for convenient weekend. )
+resume(n): 
+ - thesaurus(summary, precis, abstract, )
+ - example usage(Resume is an important part of the assertion like papers and essays to remind the topic to readers. )
+deteriorate(v): 
+ - thesaurus(worsen, weaken, )
+ - example usage(His dog¡¯s health had been deteriorated for 2 months, finally the dog died in March. 1. 2020. )
+quality(n): 
+ - thesaurus(Character, property, quantity, )
+ - example usage(These days, as customers become smart, the quality of products becomes more important than before of course in rational cost. )
+quality(adj): 
+ - thesaurus(Luxury, advanced, fancy, prestige, )
+ - example usage(I want to be gifted a quality present next year which costs over one million won because I got one million won on this birthday as a present. )
+deduct(v): 
+ - thesaurus(Subtract, remove, )
+ - example usage(Most part timers don¡¯t like deduct insurance bill from their pay, but it is helpful in the long run.  )
+compromise(v): 
+ - thesaurus(Negotiate, )
+ - example usage(When I was young, I used to compromise with mom for me to playing overnight at my friend¡¯s house. )
+compromise(n): 
+ - thesaurus(Negotiation, deal, )
+ - example usage(For a successful negotiation to both teams, a proper compromise that leads the negotiation to win-win result should be offered. )
+integral(n): 
+ - thesaurus(Whole, entirety, all, )
+ - example usage(A definite integral is used in widely in engineering, so you have to understand it exactly. )
+integral(adj): 
+ - thesaurus(Complete, entire, essential, vital, )
+ - example usage(Son completely takes root in Tottenham as an integral player particularly as a left wing and one top. )
+obligate(v): 
+ - thesaurus(Force, pressure, impose, compel, )
+ - example usage(When I was a third grade of student of Muhak high school, teachers obligated students to remain until PM 11:00 in name of self-studying. )
+obligate(adj): 
+ - thesaurus(Unavoidable, inevitable, mandatory, bounden, obligate, )
+ - example usage(It is obligate to Korea men to serve in a army for about 2 years except special cases. )
+revenue(v): 
+ - thesaurus(Income, profit, returns, )
+ - example usage(Last year, our company¡¯s revenue increased about 10% compared with two years ago, and this year¡¯s goal is 20% increase compared with last year. )
+elaborate(v): 
+ - thesaurus(amplify, enlarge on, )
+ - example usage(I elaborate to this report compared with others to get high score in English communication class. )
+elaborate(adj): 
+ - thesaurus(ornate, precise, )
+ - example usage(The elaborate diamonds look more shining than others because they have more piece of sides. )
+mandatory(adj): 
+ - thesaurus(Necessary, obligatory, essential, forced, )
+ - example usage(In South Korea, military service about 2 years is mandatory and it is one of the four duties of people.  )
+frequent(v): 
+ - thesaurus(Visit, haunt, )
+ - example usage(She frequents to the cafe named ¡®Sounds Coffee¡¯ because of jazz style background music and dark interior.  )
+frequent(adj): 
+ - thesaurus(Repeated, common, regular, )
+ - example usage(Frequent smoking is harmful not only for your own health but also for others¡¯ health beside you. )
+compatible(adj): 
+ - thesaurus(companionable, consistent, )
+ - example usage(Galaxy Buds made in Samsung are a bluetooth earphones that compatible with I-phone made in Apple.   )
+endorse(v): 
+ - thesaurus(Support, approve, )
+ - example usage(I hope my family to endorse my business that provide people a place to take a picnic indoors. )
+bilateral(adj): 
+ - thesaurus(Mutual, two-sided, )
+ - example usage(Physical contact should be allowed under bilateral agreements, of course in a company and even in a home. )
+succinct(adj): 
+ - thesaurus(concise, brief, pithy, )
+ - example usage(Good essay should involve succinct and specific assertion and explanations for readers to understand easily.  )
+refrain(v): 
+ - thesaurus(cease, abstain, desist, )
+ - example usage(It is extremely hard work to refrain smoking at once to long time smokers except minority. )
+refrain(n): 
+ - thesaurus(chorus, melody, )
+ - example usage(It is extremely hard work to refrain smoking at once to long time smokers except minority. )
+recruit(v): 
+ - thesaurus(employ, hire, engage, )
+ - example usage(I want to be recruited by vehicle company particularly three big business in Germany like BMW. )
+recruit(n): 
+ - thesaurus(trainee, apprentice, )
+ - example usage(If you had been soldier, you must have time as recruit that is short in every part. )
+accurate(adj): 
+ - thesaurus(Exact, precise, )
+ - example usage(Computer programming demands accurate source code because a small mistake leads program to a wrong way. )
+audit(v): 
+ - thesaurus(Check, review, inspect, examine, )
+ - example usage(Auditing companies for various reasons should be clearand fair to find out illegalitiesand corruption. )
+audit(n): 
+ - thesaurus(Check, review, inspection, examination, )
+ - example usage(Auditing is a work to discover companies that commit illegalities and corruption for healthy social. )
+apprehensive(adj): 
+ - thesaurus(Anxious, worried, concerned, )
+ - example usage(You don¡¯t have to be apprehensive about upcoming date for teeth treatment, rather care about upcoming test. )
+construct(v): 
+ - thesaurus(build, make, )
+ - example usage(I have lived in Lotte apartment for 20 years that is constructed in 1999 year and I¡¯ll live until next year. )
+prerequisite(adj): 
+ - thesaurus(Necessary, )
+ - example usage(A certificate of 850+TOEIC is prerequisite if you want to hand in an application to big company like SAMSUNG. )
+prerequisite(n): 
+ - thesaurus(Requirement, qualification, )
+ - example usage(You have to meet a prerequisite that company requires if you want to hand in an application to big company like SAMSUNG. )
+utility(n): 
+ - thesaurus(usefulness, practicality, )
+ - example usage(When I buy an electronic device like a cell phone, first thing that I check is an utility. )
+utility(adj): 
+ - thesaurus(versatile, multipurpose, )
+ - example usage(In the door, there is an utility room that you can work like laundry and DIY. )
+legitimate(adj): 
+ - thesaurus(proper, reasonable, logical, )
+ - example usage(Her family motto is ¡°Be legitimate¡± and ,when I see her real life, I think that she follows her family motto well. )
+prevalent(adj): 
+ - thesaurus(Popular, common, normal, typical, )
+ - example usage(GGANG is the song of rain who is powerful singer and it is prevalent by You-tube. )
+specific(adj): 
+ - thesaurus(Precise, peculiar, particular, explicit, )
+ - example usage(When you are writing an essay, give specific supporting reasons about a thesis statement to facilitate the understanding for readers. )
+consent(v): 
+ - thesaurus(Agree, permission, approve, )
+ - example usage(When I become a father, I will not consent for my wife to smoke if she is a smoker. )
+consent(n): 
+ - thesaurus(Agreement, accord, permission, )
+ - example usage(Because of COVID-19, the consent paper is essential for students to take offline class in YU. )
+aptitude(n): 
+ - thesaurus(talent, ability, capacity, )
+ - example usage(People have their own aptitude to make one¡¯s life more meaningful and richer although finding it is hard work. )
+present(v): 
+ - thesaurus(give, award, submit, )
+ - example usage(Students should present the reports until this Friday including experiment result picture and your own ideas. )
+present(adj): 
+ - thesaurus(contemporary, existent, current, )
+ - example usage(The present situation that require social isolation by COVID-19 influences almost everything badly. )
+present(n): 
+ - thesaurus(gift, )
+ - example usage(I got present box at my birthday that is composed with cosmetics, handkerchief, and one million won. )
+convex(adj): 
+ - thesaurus(Curved, rounded, arched, )
+ - example usage(Sidiz is a popular brand of chair, because it makes convex cushion on the seat for comfortable state. )
+process(v): 
+ - thesaurus(handle, treat, manufacture, )
+ - example usage(One way that separate the grades of diamond is how many sides are processed elaborately. )
+process(n): 
+ - thesaurus(procedure, course, )
+ - example usage(The process of assembling car is not that hard work but designing process is pretty hard work. )
+rectify(v): 
+ - thesaurus(Correct, revise, )
+ - example usage(Sometimes, I want to rectify wrong relationship with my friend who became awkward after graduating the high school. )
+dominate(adj): 
+ - thesaurus(Govern, control, )
+ - example usage(In an e-sports, particularly in LOL, Faker who is mid liner of T1 usually dominate the games by his sensitive control. )
+substitute(v): 
+ - thesaurus(Replace, swap, switch, )
+ - example usage(In a soccer game, lack of a player can substitute with other players but the absence of performance can¡¯t substitute. )
+substitute(n): 
+ - thesaurus(Alternative, replacement, deputy, proxy, )
+ - example usage(Because of COVID-19, Yung Nam University has problems in opening offline class so that online class is adapted with substitute of offline class.    )
+budget(v): 
+ - thesaurus(Plan, account, )
+ - example usage(It is important to budget before new projects for checking reasonable investment cost and following results. )
+budget(n): 
+ - thesaurus(finances, accounts, )
+ - example usage(In company, every department has to cost under their budget when pushing forward projects so that company develop efficiently. )
+budget(adj): 
+ - thesaurus(Cheap, inexpensive, economical, low-priced, )
+ - example usage(There are a lot of budget products in internet shopping malls which treat almost every sector, particularly in OK mall. )
+conjecture(n): 
+ - thesaurus(Hypothesis, theory, assumption, )
+ - example usage(The heavy conjecture can make other wrong information in your mind and it is also bad for your metal condition. )
+conjecture(v): 
+ - thesaurus(Estimate, guess, assume, )
+ - example usage(I can¡¯t stop conjecturing about someone¡¯s bad behavior, when someone did the same lie before. )
+commodity(n): 
+ - thesaurus(Product, goods, supply, )
+ - example usage(In Italy, there are less commodities in markets because people buy goods more than necessary due to COVID-19. )
+yield(v): 
+ - thesaurus(Produce, generate, )
+ - example usage(It is important for famers to yield their harvests in proper time for good quality and income. )
+yield(n): 
+ - thesaurus(Harvest, produce, profit, income, )
+ - example usage(Depending on the yield of whole regions in this year, price of agriculture products can increase highly or plummet. )
+weave(v): 
+ - thesaurus(Intertwine, interlace, )
+ - example usage(In my great grandmother¡¯s generation, women usually waited their husbands, weaving clothes in front of small light. )
+weave(n): 
+ - thesaurus(Pile, pattern, )
+ - example usage(When I was a middle school student, weave for a cushion was a performance assessment and I got the highest grade  )
+mediate(v): 
+ - thesaurus(Intercede, referee, negotiate , )
+ - example usage(If he didn¡¯t mediate me when I was fighting with a stranger, I would be in the jail. )
+withdraw(v): 
+ - thesaurus(Remove, leave, cancel, )
+ - example usage(There are some people who assert to withdraw the United States army in Korea, but I am opposite to them. )
+cofactor(n): 
+ - thesaurus(Common factor, mutual factor, )
+ - example usage(Cofactor is worked by functioning together between one material and another and makes new product from them. )
+stipulate(v): 
+ - thesaurus(specify, order, require, )
+ - example usage(Rules that you have to follow in the guest house are stipulated on the black board which places at the entrance. )
+stipulate(adj): 
+ - thesaurus(stipular, stipellate, )
+ - example usage(Can anybody here distinguish the stipulate tree in the bushy woods that place behind the IT block?   )
+decline(v): 
+ - thesaurus(Reduce, fall, decrease, decay, )
+ - example usage(It looks like that population of children declines in HaYang town after I graduate the elementary school. )
+decline(n): 
+ - thesaurus(Decrease, fall, wane, decay, )
+ - example usage(Decline of a birthrate is very serious social problem, so that environments for a birth should be more improved. )
+resolve(v): 
+ - thesaurus(Settle, solve, )
+ - example usage(He and his girlfriend have a meeting on this Saturday to resolve their money problem for a wedding. )
+resolve(adj): 
+ - thesaurus(Resolution, determination, decision, )
+ - example usage(She has a strong resolve that she will not marry with her boyfriend until their money problem is solved. )
+tenant(v): 
+ - thesaurus(Rent, reside, habitat, )
+ - example usage(Lots of college students that have their main house far from the college tenant in one-room, paying about 300,000 won per month. )
+tenant(n): 
+ - thesaurus(Occupant, renter, resident, lodger, )
+ - example usage(It is basic manner to be quiet for other tenants in nighttime to not bother them. )
+secure(adj): 
+ - thesaurus(Safe, assured, )
+ - example usage(To be a good structure, there should be secure fences at every window and roof, including warning sign. )
+secure(v): 
+ - thesaurus(Guarantee, protect, )
+ - example usage(When the bank loses my money, I can be secured till 50 million won that I deposited at the bank. )
+adverse(adj): 
+ - thesaurus(Harmful, negative, hostile, contrary, )
+ - example usage(For psychiatric patients, adverse thinks can be critically harmful for treatment and their daily lives. )
+diverse(adj): 
+ - thesaurus(Various, )
+ - example usage(One of my hobby is collecting diverse perfumes, especially woody scent things because of my unique taste. )
+complete(v): 
+ - thesaurus(Finish, accomplish, achieve, perfect, )
+ - example usage(I complete every 7th homework if I finish the last one of English Communication subject. )
+complete(adj): 
+ - thesaurus(perfect, whole, )
+ - example usage(To be a complete soul mate with your friend, you have to open your mind before him/her. )
+subsidiary(n): 
+ - thesaurus(Company, firm, affiliate, )
+ - example usage(A subsidiary is a company that is dominated by parent company that have more than 50% subsidiary¡¯s stock. )
+subsidiary(adj): 
+ - thesaurus(Minor, junior, secondary, )
+ - example usage(At the negotiation, don¡¯t be attracted by subsidiary conditions but concentrate on main a goal. )
+compare(v): 
+ - thesaurus(Contrast, )
+ - example usage(I prefer SUV compared with sedan because of the high seat position and big trunk. )
+aggressive(adj): 
+ - thesaurus(Violent, hostile, destructive, )
+ - example usage(Too aggressive behavior in negotiation table can be poison for you in terms of later negotiation. )
+cordially(adj): 
+ - thesaurus(pleasantly, warmly, )
+ - example usage(My little niece cordially greets my family when we go to her house in national holiday. )
+interest(n): 
+ - thesaurus(hobby, attention, curiosity, )
+ - example usage(I don¡¯t have any interests in computer games because they don¡¯t make me excited. )
+interest(v): 
+ - thesaurus(attract, grip, intrigue, fascinate, )
+ - example usage(Almost every baby is interested in movement, so that they like toys stimulating their eyes. )
+
+Bucket[  0] : 0 entries
+Bucket[  1] : 1 entries
+Bucket[  2] : 0 entries
+Bucket[  3] : 0 entries
+Bucket[  4] : 1 entries
+Bucket[  5] : 2 entries
+Bucket[  6] : 2 entries
+Bucket[  7] : 0 entries
+Bucket[  8] : 2 entries
+Bucket[  9] : 1 entries
+Bucket[ 10] : 0 entries
+Bucket[ 11] : 0 entries
+Bucket[ 12] : 4 entries
+Bucket[ 13] : 2 entries
+Bucket[ 14] : 2 entries
+Bucket[ 15] : 1 entries
+Bucket[ 16] : 2 entries
+Bucket[ 17] : 0 entries
+Bucket[ 18] : 0 entries
+Bucket[ 19] : 0 entries
+Bucket[ 20] : 1 entries
+Bucket[ 21] : 2 entries
+Bucket[ 22] : 2 entries
+Bucket[ 23] : 2 entries
+Bucket[ 24] : 0 entries
+Bucket[ 25] : 0 entries
+Bucket[ 26] : 1 entries
+Bucket[ 27] : 2 entries
+Bucket[ 28] : 1 entries
+Bucket[ 29] : 2 entries
+Bucket[ 30] : 3 entries
+Bucket[ 31] : 0 entries
+Bucket[ 32] : 0 entries
+Bucket[ 33] : 1 entries
+Bucket[ 34] : 0 entries
+Bucket[ 35] : 0 entries
+Bucket[ 36] : 2 entries
+Bucket[ 37] : 2 entries
+Bucket[ 38] : 0 entries
+Bucket[ 39] : 0 entries
+Bucket[ 40] : 0 entries
+Bucket[ 41] : 0 entries
+Bucket[ 42] : 0 entries
+Bucket[ 43] : 0 entries
+Bucket[ 44] : 0 entries
+Bucket[ 45] : 0 entries
+Bucket[ 46] : 0 entries
+Bucket[ 47] : 0 entries
+Bucket[ 48] : 1 entries
+Bucket[ 49] : 3 entries
+Bucket[ 50] : 0 entries
+Bucket[ 51] : 0 entries
+Bucket[ 52] : 0 entries
+Bucket[ 53] : 0 entries
+Bucket[ 54] : 0 entries
+Bucket[ 55] : 0 entries
+Bucket[ 56] : 1 entries
+Bucket[ 57] : 2 entries
+Bucket[ 58] : 0 entries
+Bucket[ 59] : 0 entries
+Bucket[ 60] : 2 entries
+Bucket[ 61] : 0 entries
+Bucket[ 62] : 1 entries
+Bucket[ 63] : 0 entries
+Bucket[ 64] : 4 entries
+Bucket[ 65] : 1 entries
+Bucket[ 66] : 0 entries
+Bucket[ 67] : 3 entries
+Bucket[ 68] : 4 entries
+Bucket[ 69] : 0 entries
+Bucket[ 70] : 0 entries
+Bucket[ 71] : 1 entries
+Bucket[ 72] : 2 entries
+Bucket[ 73] : 0 entries
+Bucket[ 74] : 0 entries
+Bucket[ 75] : 3 entries
+Bucket[ 76] : 0 entries
+Bucket[ 77] : 7 entries
+Bucket[ 78] : 2 entries
+Bucket[ 79] : 0 entries
+Bucket[ 80] : 1 entries
+Bucket[ 81] : 0 entries
+Bucket[ 82] : 0 entries
+Bucket[ 83] : 4 entries
+Bucket[ 84] : 2 entries
+Bucket[ 85] : 0 entries
+Bucket[ 86] : 4 entries
+Bucket[ 87] : 0 entries
+Bucket[ 88] : 2 entries
+Bucket[ 89] : 0 entries
+Bucket[ 90] : 2 entries
+Bucket[ 91] : 0 entries
+Bucket[ 92] : 0 entries
+Bucket[ 93] : 2 entries
+Bucket[ 94] : 0 entries
+Bucket[ 95] : 0 entries
+Bucket[ 96] : 2 entries
+Bucket[ 97] : 0 entries
+Bucket[ 98] : 0 entries
+Bucket[ 99] : 1 entries
+Bucket[100] : 2 entries
+
+Max_ent( 7), min_ent( 0), avg (    0)
+
+Thesaurus of [present]: 
+present(v): 
+ - thesaurus(give, award, submit, )
+ - example usage(Students should present the reports until this Friday including experiment result picture and your own ideas. )
+present(adj): 
+ - thesaurus(contemporary, existent, current, )
+ - example usage(The present situation that require social isolation by COVID-19 influences almost everything badly. )
+present(n): 
+ - thesaurus(gift, )
+ - example usage(I got present box at my birthday that is composed with cosmetics, handkerchief, and one million won. )
+
